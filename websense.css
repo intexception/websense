@@ -1,0 +1,14 @@
+/*
+
+
+ _       __     __   _____                    
+| |     / /__  / /_ / ___/___  ____  ________ 
+| | /| / / _ \/ __ \\__ \/ _ \/ __ \/ ___/ _ \
+| |/ |/ /  __/ /_/ /__/ /  __/ / / (__  )  __/
+|__/|__/\___/_.___/____/\___/_/ /_/____/\___/ 
+                                              
+; https://websense.0x91.cf
+; Websense - CSS framework based on skeet.cc (gamesense) CS:GO utility mod.
+; Copyright @ Nquantum (https://0x91.cf)
+*/
+:root{--gamesense-wrapper:#111111;--gamesense-panel:#252628;--gamesense-text:#F5F8FD}*{margin:0;padding:0}body{background-color:var(--gamesense-wrapper);color:var(--gamesense-text);font-family:Verdana}.gamesense-gradient{padding:0;margin:0 0 30px;background:#1e5799;background:-moz-linear-gradient(left, #1e5799 0%, #f300ff 50%, #e0ff00 100%);background:-webkit-gradient(linear, left top, right top, color-stop(0%,#1e5799), color-stop(50%,#f300ff), color-stop(100%,#e0ff00));background:-webkit-linear-gradient(left, #1e5799 0%,#f300ff 50%,#e0ff00 100%);background:-o-linear-gradient(left, #1e5799 0%,#f300ff 50%,#e0ff00 100%);background:-ms-linear-gradient(left, #1e5799 0%,#f300ff 50%,#e0ff00 100%);background:linear-gradient(to right, #1e5799 0%,#f300ff 50%,#e0ff00 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#e0ff00',GradientType=1 );height:2px;border-bottom:1px solid #000;-webkit-animation:grad 1s ease infinite;-moz-animation:grad 1s ease infinite;animation:grad 1s ease infinite}h1{margin-top:5%;margin-left:5%}h5{margin-left:5%}.h1-fluid{margin-left:5%;margin-top:23%}p{margin-left:5%}.margin-5{margin-left:5%}.p-fluid{margin-left:5%}.fluid-10p{margin-top:10%}.fluid-header{margin-top:5%;margin-left:5%}.header-paragraph{font-size:27px}.separator{background-color:#222;height:2px;width:100%;margin:20px 5% 30px}.mini-sep{}.container{display:grid;grid-template-columns:auto auto auto}.grid-block{height:200px;width:190px;background-color:#151515}.nigger{font-size:20px}.grid-block:hover{background-color:#171717}@keyframes grad{0%{background-position:0 50%}50%{background-position:100% 50%}100%{background-position:0 50%}}@-moz-keyframes grad{0%{background-position:0 50%}50%{background-position:100% 50%}100%{background-position:0 50%}}@keyframes grad{0%{background-position:0 50%}50%{background-position:100% 50%}100%{background-position:0 50%}}
